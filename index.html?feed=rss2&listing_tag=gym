@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gym &#8211; Chinatown Antwerpen</title>
+	<atom:link href="https://chinatownantwerpen.be/?feed=rss2&#038;listing_tag=gym" rel="self" type="application/rss+xml" />
+	<link>https://chinatownantwerpen.be</link>
+	<description>Asia in your city</description>
+	<lastBuildDate>Mon, 13 Apr 2020 22:04:36 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.5</generator>
+	<item>
+		<title>Acupuncture Wang Zhongbin</title>
+		<link>https://chinatownantwerpen.be/?listing=gym-in-citycenter-2</link>
+					<comments>https://chinatownantwerpen.be/?listing=gym-in-citycenter-2#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 May 2018 04:22:41 +0000</pubDate>
+				<guid isPermaLink="false">https://citybook2.cththemes.com/listing/gym-in-citycenter-2/</guid>
+
+					<description><![CDATA[About Fitness Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla &#8230; ]]></description>
+										<content:encoded><![CDATA[<div class="list-single-main-item-title fl-wrap">
+<h3>About Fitness</h3>
+</div>
+<p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. Donec a consectetur nulla. Nulla posuere sapien vitae lectus suscipit, et pulvinar nisi tincidunt. Aliquam erat volutpat. Curabitur convallis fringilla diam sed aliquam. Sed tempor iaculis massa faucibus feugiat. In fermentum facilisis massa, a consequat purus viverra.</p>
+<p><a class="btn transparent-btn float-btn" href="#">Visit Website <i class="fa fa-angle-right"></i></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chinatownantwerpen.be/?feed=rss2&#038;p=1896</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events &#8211; Chinatown Antwerpen</title>
+	<atom:link href="https://chinatownantwerpen.be/?feed=rss2&#038;cat=143" rel="self" type="application/rss+xml" />
+	<link>https://chinatownantwerpen.be</link>
+	<description>Asia in your city</description>
+	<lastBuildDate>Mon, 10 Jan 2022 14:59:37 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.5</generator>
+	<item>
+		<title>Legends Of Liondance Expo</title>
+		<link>https://chinatownantwerpen.be/?p=6628</link>
+					<comments>https://chinatownantwerpen.be/?p=6628#respond</comments>
+		
+		<dc:creator><![CDATA[QQBoy]]></dc:creator>
+		<pubDate>Mon, 10 Jan 2022 14:40:17 +0000</pubDate>
+				<category><![CDATA[Chinese Culture]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Events Antwerp]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">https://chinatownantwerpen.be/?p=6628</guid>
+
+					<description><![CDATA[Soon we will enter the year of the Tiger! Celebrate Chinese New Year with us and get to know traditional Chinese culture up close. Visit the expo and register for a Chinese workshop, lecture, movie night or guided tour.*Register quickly because places are limited. All info and tickets can be found on the website.www.legendsofliondance.comEXPO FROM &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Soon we will enter the year of the Tiger! Celebrate Chinese New Year with us and get to know traditional Chinese culture up close. Visit the expo and register for a Chinese workshop, lecture, movie night or guided tour.<br>*Register quickly because places are limited. All info and tickets can be found on the website.<br>www.legendsofliondance.com<br>EXPO FROM JANUARY 22 T.E.M. 13 FEBRUARY 2022, IN Permeke Library, ANTWERP</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chinatownantwerpen.be/?feed=rss2&#038;p=6628</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

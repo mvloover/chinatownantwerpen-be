@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Chinatown Antwerpen</title>
+	<atom:link href="https://chinatownantwerpen.be/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
+	<link>https://chinatownantwerpen.be</link>
+	<description>Asia in your city</description>
+	<lastBuildDate>Thu, 20 Jan 2022 19:16:35 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.5</generator>
+	<item>
+		<title>Op bezoek in Chinatown in Antwerpen: “Het is aan de nieuwe generatie om meer naar buiten te komen met onze cultuur” Gazet Van Antwerpen</title>
+		<link>https://chinatownantwerpen.be/?p=6446</link>
+					<comments>https://chinatownantwerpen.be/?p=6446#respond</comments>
+		
+		<dc:creator><![CDATA[QQBoy]]></dc:creator>
+		<pubDate>Wed, 24 Nov 2021 06:53:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://chinatownantwerpen.be/?p=6446</guid>
+
+					<description><![CDATA[Lees het artikel https://m.gva.be/cnt/dmf20211126_95120505]]></description>
+										<content:encoded><![CDATA[
+<p>Lees het artikel <a href="https://m.gva.be/cnt/dmf20211126_95120505">https://m.gva.be/cnt/dmf20211126_95120505</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chinatownantwerpen.be/?feed=rss2&#038;p=6446</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tweede Chinese poort van Europese continent staat in Antwerpen</title>
+		<link>https://chinatownantwerpen.be/?p=6647</link>
+					<comments>https://chinatownantwerpen.be/?p=6647#respond</comments>
+		
+		<dc:creator><![CDATA[QQBoy]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2010 19:05:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://chinatownantwerpen.be/?p=6647</guid>
+
+					<description><![CDATA[https://m.gva.be/cnt/eid66828]]></description>
+										<content:encoded><![CDATA[
+<p>https://m.gva.be/cnt/eid66828</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chinatownantwerpen.be/?feed=rss2&#038;p=6647</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
